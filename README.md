@@ -1,2 +1,2 @@
-# web-tools
+# Web Tools
 A Safari Extension made in iOS Shortcuts.
